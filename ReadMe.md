@@ -10,3 +10,5 @@
 8. Paste the path of the pcap file into the tool
 
 It will create a session file with some info like the encryption key and a file in a folder called "Packets", you can use my udp replay tool to replay this packets
+
+# Feel free to make pull requests with new sessions :)
