@@ -8,5 +8,35 @@
     "buildUniqueId": "14652045",
     "BuildVersion": "++Fortnite+Release-15.10-CL-14937640",
     "SavedPackets": true
+  },
+  "9131793311fc4f40a765e68fee766a6d": {
+    "EncryptionKey": "S/9kkfVKySOEKsEIIje4+RtvJFpNGIdqkMGfIuUjQwA=",
+    "ServerAddress": "143.131.178.10",
+    "ServerPort": 38278,
+    "SessionID": "9131793311fc4f40a765e68fee766a6d",
+    "Playlist": "Playlist_DefaultDuo",
+    "buildUniqueId": "14652045",
+    "BuildVersion": "++Fortnite+Release-15.10-CL-14937640",
+    "SavedPackets": true
+  },
+  "6889b19ea52c484ba434e57cea404629": {
+    "EncryptionKey": "DypIklTBTjedyd/60Vr6pcxwz3JW4+z2GAaLB0Pe7vI=",
+    "ServerAddress": "143.131.178.9",
+    "ServerPort": 15547,
+    "SessionID": "6889b19ea52c484ba434e57cea404629",
+    "Playlist": "Playlist_DefaultDuo",
+    "buildUniqueId": "14652045",
+    "BuildVersion": "++Fortnite+Release-15.10-CL-14937640",
+    "SavedPackets": true
+  },
+  "911609c52d16441cb464802c12caeef4": {
+    "EncryptionKey": "aeVJ1feI3ivzmljlK1hjF3RkpymEaVIZxpiFSCr9pZQ=",
+    "ServerAddress": "143.131.178.10",
+    "ServerPort": 34585,
+    "SessionID": "911609c52d16441cb464802c12caeef4",
+    "Playlist": "Playlist_DefaultDuo",
+    "buildUniqueId": "14652045",
+    "BuildVersion": "++Fortnite+Release-15.10-CL-14937640",
+    "SavedPackets": true
   }
 }
