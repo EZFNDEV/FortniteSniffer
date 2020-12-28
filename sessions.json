@@ -38,5 +38,25 @@
     "buildUniqueId": "14652045",
     "BuildVersion": "++Fortnite+Release-15.10-CL-14937640",
     "SavedPackets": true
+  },
+  "3dbc9b5b4d2e4ecb9562700ce56df38b": {
+    "EncryptionKey": "20fkIUSA4ipY1IOTt9npHTC05um2PszeqscZx1zqEbM=",
+    "ServerAddress": "52.59.253.157",
+    "ServerPort": 9018,
+    "SessionID": "3dbc9b5b4d2e4ecb9562700ce56df38b",
+    "Playlist": "Playlist_Argon_Duos",
+    "buildUniqueId": "14652045",
+    "BuildVersion": "++Fortnite+Release-15.10-CL-14937640",
+    "SavedPackets": true
+  },
+  "f536fe25f72a4479a4e060b8385b143c": {
+    "EncryptionKey": "7+TScBsUXinHKqvo/Nfnthi0wYz7/M8pOjnQyJMGqVk=",
+    "ServerAddress": "3.127.64.28",
+    "ServerPort": 9019,
+    "SessionID": "f536fe25f72a4479a4e060b8385b143c",
+    "Playlist": "Playlist_BattleLab",
+    "buildUniqueId": "14652045",
+    "BuildVersion": "++Fortnite+Release-15.10-CL-14937640",
+    "SavedPackets": true
   }
 }
